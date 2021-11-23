@@ -12,7 +12,7 @@ public class Salle {
     private String intitulé;
     private int capacité;
 
-    //constructeur n°1
+    // constructeur n°1
     public Salle(String intitulé, int capacité) {
         this.intitulé = intitulé;
         this.capacité = capacité;
