@@ -24,5 +24,21 @@ public class UE {
         return myIntitule;
     }
 
+    public String getMyIntitule() {
+        return myIntitule;
+    }
+
+    public int getHeuresCM() {
+        return heuresCM;
+    }
+
+    public int getHeuresTD() {
+        return heuresTD;
+    }
+
+    public int getHeuresTP() {
+        return heuresTP;
+    }
+
     
 }
